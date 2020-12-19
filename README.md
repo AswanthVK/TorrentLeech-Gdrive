@@ -5,6 +5,11 @@
 
 A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.com/pyrogram/pyrogram)
 
+#### The Easy Way
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+
 # Benefits :-
     ✓ Google Drive link cloning using gclone.(wip)
     ✓ Telegram File mirrorring to cloud along with its unzipping, unrar and untar
